@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning algorithm go
 - ⚡ Fun fact: block chain, fabric, raft and so on
+- 🧡 work: Focusing on go & java
+- 🔨: app developer 
  
 
 
