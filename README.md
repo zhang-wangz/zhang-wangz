@@ -4,6 +4,7 @@
 
 - 🧡 work: Focusing on go & java
 - 🔨: R & D Engineer
+- 🐯afdian: https://afdian.com/a/scriptsofzhang?tab=home
  
 
 
